@@ -38,7 +38,7 @@
 
 * Landing Page
 
-![Landing Page](![alt text](image.png))
+![Landing Page](image.png)
 
 * Sign up using **Facebook**, **GitHub**, **Google** or create a new account using your email address.
 
@@ -62,7 +62,7 @@
 
 * Customize the app the way you want
 
-![Custom theme](![alt text](image-1.png))
+![Custom theme](image-1.png)
 
 ## Getting started
 
