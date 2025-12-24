@@ -73,7 +73,7 @@
 git clone https://github.com/ankitsingh1421/Habitstreak.git
 
 # Install dependencies
-cd habit-tracker-app
+cd HabitStreak
 yarn
 ```
 
