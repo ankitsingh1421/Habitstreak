@@ -9,17 +9,6 @@
 * [Challenges](#challenges)
 * [Create React App](#bootstrapped-with-create-react-app)
 
-## About
-
-**Habit Tracker** is my final project for [CS50's Introduction to Computer Science Course](https://www.edx.org/course/cs50s-introduction-to-computer-science).
-What can I say, **Habit Tracker** keeps track of your habits :fireworks: :ok_hand: :tada:
-
-### Video presentation
-
-A short video (2 minutes in length) where I present the project.
-
-[![Video presentation](https://i.gyazo.com/e642a79e194b30fa3deaa050e0c4b0f5.png)](https://www.youtube.com/watch?v=zIr_d1ZsIGQ)
-
 ## Features and Stack
 
 ### Features
@@ -49,7 +38,7 @@ A short video (2 minutes in length) where I present the project.
 
 * Landing Page
 
-![Landing Page](screenshots/landing.png)
+![Landing Page](![alt text](image.png))
 
 * Sign up using **Facebook**, **GitHub**, **Google** or create a new account using your email address.
 
@@ -73,19 +62,15 @@ A short video (2 minutes in length) where I present the project.
 
 * Customize the app the way you want
 
-![Custom theme](screenshots/layout-theme.png)
+![Custom theme](![alt text](image-1.png))
 
 ## Getting started
-
-Below you'll find the instructions for setting up the project locally and a walkthrough video, where I'm following these instructions. 
-
-[![local-dev-thumbnail](https://user-images.githubusercontent.com/58401630/159131748-9181af46-22c3-4648-ae18-e82572f4843c.png)](https://youtu.be/-Iv88vi71gM)
 
 ### Clone repo and install dependencies
 
 ```bash
 # Clone the repo
-git clone https://github.com/sitek94/habit-tracker-app.git
+git clone https://github.com/ankitsingh1421/Habitstreak.git
 
 # Install dependencies
 cd habit-tracker-app
